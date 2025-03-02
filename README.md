@@ -1,2 +1,2 @@
-# zhou-lab.github.io
+# hass-lab.github.io
 
